@@ -1,0 +1,17 @@
+AMRAP;As Many Reps As Possible
+EMOM;Every Minute on the Minute For
+EMOTM;Every Minute on the Minute For
+STR/Skill;Strength/Skill
+Skill/Str;Skill/Strength
+ea.;each
+ wb ; wall ball 
+situp;sit up
+ kb ; kettle bell 
+1RM;1 rep max
+2RM;2 rep max
+3RM;3 rep max
+4RM;4 rep max
+5RM;5 rep max
+6RM;6 rep max
+ db ; dumbbell 
+DB/KB;dumbbell/kettle bell
